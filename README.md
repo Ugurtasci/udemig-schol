@@ -1,4 +1,3 @@
-# udemig-schol
 
 <h1>udemig-schol</h1>
 
